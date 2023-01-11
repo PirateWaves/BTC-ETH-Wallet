@@ -224,7 +224,7 @@ Steps for Local Set Up:
 
 1. Add one of the `ETH` addresses to the pre-allocated accounts in your `networkname.json`. As well as to a sealer address to be a validator and be pre-funded.  
 2. Go to MyCrypto - for the pre-allocated accounts use the private key under your custom network to download the UTC-key. Create a password for the custom `ETH` address.
-3. Under 'Blockchain Tools' create a new folder node3 , I use node3 as I had origniall started two new accounts when intitliazing my nodes. See github link. (https://github.com/KeepItOnTheDownload/Multi-Blockchain_Wallet-)
+3. Under 'Blockchain Tools' create a new folder node3 , I use node3 as I had origniall started two new accounts when intitliazing my nodes. 
 4. I add the UTC file I just downloaded into the folder and add a password.txt file for the password created in MyCrypto.
 
 - Delete the `geth` folder in each node that you ran previously (if you are starting from scratch then ingore this step), then re-initialize
